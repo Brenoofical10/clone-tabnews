@@ -1,2 +1,3 @@
 # clone-tabnews
-Implementação do tab news para aprendizagem. 
+
+Implementação do tab news para aprendizagem.
